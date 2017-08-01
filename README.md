@@ -23,10 +23,10 @@ me at bressleb@gmail.com_
 
 ## Technologies Used
 
-_I had the exciting opportunity to use HTML and CSS. _
+I had the exciting opportunity to use HTML and CSS.
 
 ### License
 
 *For this website MIT license is being used.*
 
-Copyright (c) 2017 **__**
+Copyright (c) 2017 
