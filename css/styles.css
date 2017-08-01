@@ -1,0 +1,16 @@
+img {
+  width:200px;
+  height:200px;
+}
+
+h1 {
+  color:blue;
+  font-family:fantasy;
+}
+
+ol{
+  line-height:50px;
+  text-align:center;
+  display:table;
+  margin:0 auto;
+}
